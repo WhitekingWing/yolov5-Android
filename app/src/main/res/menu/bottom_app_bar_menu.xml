@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+        <item
+            android:id="@+id/next_btn"
+            android:checked="true"
+            android:icon="@android:drawable/ic_input_add"
+            android:title="Item"
+            app:showAsAction="ifRoom" />
+
+        <item
+            android:id="@+id/action_settings"
+            android:title="Settings"
+            app:showAsAction="ifRoom"/>
+        <!--
+        <item
+            android:id="@+id/item_search"
+            android:icon="@drawable/ic_search"
+            android:title="Search" />
+        <item
+            android:id="@+id/item_label"
+            android:icon="@drawable/ic_label"
+            android:title="Label" />
+        <item
+            android:id="@+id/item_label_first"
+            android:icon="@drawable/ic_dark_arrow"
+            android:title="@string/law_first" />
+        <item
+            android:id="@+id/item_label_second"
+            android:icon="@drawable/ic_dark_arrow"
+            android:title="@string/law_second" />
+        <item
+            android:id="@+id/item_label_third"
+            android:icon="@drawable/ic_dark_arrow"
+            android:title="@string/law_third" />
+        <item
+            android:id="@+id/item_label_fourth"
+            android:icon="@drawable/ic_dark_arrow"
+            android:title="@string/law_fourth" />
+        <item
+            android:id="@+id/item_label_fifth"
+            android:icon="@drawable/ic_dark_arrow"
+            android:title="@string/law_fifth" />
+        <item
+            android:id="@+id/item_label_six"
+            android:icon="@drawable/ic_dark_arrow"
+            android:title="@string/law_sixth" />
+        <item
+            android:id="@+id/item_setting"
+            android:icon="@drawable/ic_setting"
+            android:title="Setting" />
+        <item
+            android:id="@+id/item_about"
+            android:icon="@drawable/ic_about"
+            android:title="About" />
+           !-->
+</menu>
